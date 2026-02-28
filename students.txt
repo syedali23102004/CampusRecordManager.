@@ -1,0 +1,1 @@
+[{"id":2,"name":"Noman","registration_no":"cosc231101016","email":"syedali23102004@gmail.com","course":"Software Engineering"},{"id":3,"name":"Syed Ali Ahmed","registration_no":"cosc231101001","email":"syedali23102004@gmail.com","course":"Computer Science"}]
